@@ -1,7 +1,7 @@
 name: Bookish
 type: profile
 description: 'A starter profile for Tome blogs.'
-core_version_requirement: '^9'
+core_version_requirement: '^9 || ^10'
 
 install:
   - node
