@@ -10,13 +10,6 @@ lunr:
     base:
       css/lunr.css: {}
 
-highlight_php:
-  version: VERSION
-  css:
-    base:
-      css/a11y-light.css: {}
-      css/a11y-dark.css: {}
-
 speed:
   js:
     js/speed.js: { }

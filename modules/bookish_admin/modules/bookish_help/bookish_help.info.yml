@@ -10,4 +10,3 @@ dependencies:
   - drupal:menu_ui
   - metatag:metatag
   - simple_sitemap:simple_sitemap
-  - highlight_php:highlight_php

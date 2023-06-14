@@ -6,7 +6,6 @@ dependencies:
     - bookish_ckeditor
     - bookish_image
     - editor
-    - highlight_php
 _core:
   default_config_hash: CPVDQNeXQSBJTwyZIUoEBe9aYZaL6e-5tqOPr1fFZWw
 name: 'Rich text'
@@ -45,12 +44,6 @@ filters:
     provider: bookish_image
     status: true
     weight: -46
-    settings: {  }
-  filter_highlight_php:
-    id: filter_highlight_php
-    provider: highlight_php
-    status: true
-    weight: -45
     settings: {  }
   filter_html_image_secure:
     id: filter_html_image_secure

@@ -49,9 +49,7 @@ install:
   - metatag_twitter_cards
   - pathauto
   - simple_sitemap
-  - highlight_php
   - coffee
-  - coffee_extras
   - allowed_formats
 
 themes:

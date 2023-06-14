@@ -9,8 +9,6 @@ libraries:
 libraries-extend:
   lunr/search:
     - bookish_theme/lunr
-  highlight_php/main:
-    - bookish_theme/highlight_php
   bookish_speed/main:
     - bookish_theme/speed
 regions:

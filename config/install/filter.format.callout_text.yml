@@ -5,7 +5,6 @@ dependencies:
     - bookish_ckeditor
     - bookish_image
     - editor
-    - highlight_php
 _core:
   default_config_hash: P0abUzx8byynHCww1iXny-yx2b-7mVxLWzkLLBc-K4U
 name: 'Callout text'
@@ -44,12 +43,6 @@ filters:
     provider: bookish_image
     status: true
     weight: -46
-    settings: {  }
-  filter_highlight_php:
-    id: filter_highlight_php
-    provider: highlight_php
-    status: false
-    weight: -45
     settings: {  }
   filter_html_image_secure:
     id: filter_html_image_secure
