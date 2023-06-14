@@ -8,8 +8,7 @@ install:
   - block
   - block_content
   - breakpoint
-  - ckeditor
-  - color
+  - ckeditor5
   - config
   - menu_link_content
   - datetime
@@ -26,7 +25,6 @@ install:
   - dblog
   - field_ui
   - file
-  - rdf
   - views
   - views_ui
   - ckeditor5
